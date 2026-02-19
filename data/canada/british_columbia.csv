@@ -18,7 +18,7 @@ id,name,brewery_type,address_1,address_2,address_3,city,state_province,postal_co
 ,Fernie Brewing Co,micro,26 Manitou Rd.,,,Fernie,British Columbia,V0B 1M5,Canada,12504237797,http://www.ferniebrewing.com/,49.526552,-115.047455
 ,Beard's Brewing Co.,micro,10408 Alaska Rd,,,Fort St. John,British Columbia,V1J 3X2,Canada,12502624104,https://www.beardsbrewing.ca,56.2396479,-120.8531309
 ,Persephone Brewing Company,micro,1053 Stewart Rd.,,,Gibsons,British Columbia,V0N 1V7,Canada,17784623007,http://www.persephonebrewing.com/,49.420731,-123.5080862
-,Middle Mountain Mead Brewery,meadery,3505 Euston Road,,,Hornby Island,British Columbia,V0R 1Z0,Canada,12503351397,http://middlemountainmead.com/,49.5006853,-124.6638153
+,Middle Mountain Mead Brewery,micro,3505 Euston Road,,,Hornby Island,British Columbia,V0R 1Z0,Canada,12503351397,http://middlemountainmead.com/,49.5006853,-124.6638153
 ,Red Collar Brewery,micro,355 Lansdowne St.,,,Kamloops,British Columbia,V2C 1X9,Canada,17784710174,http://redcollar.ca,50.6765548,-120.3326669
 ,The Noble Pig Brewery,brewpub,650 Victoria Street,,,Kamloops,British Columbia,V2C 2B4,Canada,17784715999,http://www.thenoblepig.ca/,50.675888,-120.325666
 ,BC Tree Fruits Cider Co. Brewery,cidery,880 Vaughan Ave,,,Kelowna,British Columbia,V1Y 7E4,Canada,,,49.8942,-119.484
