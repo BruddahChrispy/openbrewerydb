@@ -1,7 +1,7 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-65-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-69-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -307,6 +307,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/zingi"><img src="https://avatars.githubusercontent.com/u/9286499?v=4?s=100" width="100px;" alt="Aaron Zingerle"/><br /><sub><b>Aaron Zingerle</b></sub></a><br /><a href="#data-zingi" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ndawson15"><img src="https://avatars.githubusercontent.com/u/6465674?v=4?s=100" width="100px;" alt="Noah Dawson"/><br /><sub><b>Noah Dawson</b></sub></a><br /><a href="#data-Ndawson15" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jctopping"><img src="https://avatars.githubusercontent.com/u/163754356?v=4?s=100" width="100px;" alt="jctopping"/><br /><sub><b>jctopping</b></sub></a><br /><a href="#data-jctopping" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://fabiovitalba.github.io/"><img src="https://avatars.githubusercontent.com/u/3830362?v=4?s=100" width="100px;" alt="Fabio Vitalba"/><br /><sub><b>Fabio Vitalba</b></sub></a><br /><a href="#data-fabiovitalba" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dustinb"><img src="https://avatars.githubusercontent.com/u/1167912?v=4?s=100" width="100px;" alt="Dustin Butler"/><br /><sub><b>Dustin Butler</b></sub></a><br /><a href="#data-dustinb" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BruddahChrispy"><img src="https://avatars.githubusercontent.com/u/3619514?v=4?s=100" width="100px;" alt="BruddahChrispy"/><br /><sub><b>BruddahChrispy</b></sub></a><br /><a href="#data-BruddahChrispy" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
@@ -320,11 +324,11 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📊 Statistics
 
-> Last updated: 2026-02-01
+> Last updated: 2026-02-21
 
 ### Overview
-- Total Breweries: 9,083
-- Data Completeness: 78.0%
+- Total Breweries: 9,251
+- Data Completeness: 79.0%
 
 ### 🏛 Top 10 States by Brewery Count
 | State | Count |
@@ -343,20 +347,20 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
 |------|--------|------------|
-| micro | 4,830 | 53.2% |
-| brewpub | 2,572 | 28.3% |
-| planning | 662 | 7.3% |
-| closed | 319 | 3.5% |
-| regional | 228 | 2.5% |
-| contract | 187 | 2.1% |
-| large | 114 | 1.3% |
-| proprietor | 69 | 0.8% |
+| micro | 4,911 | 53.1% |
+| brewpub | 2,620 | 28.3% |
+| planning | 649 | 7.0% |
+| closed | 361 | 3.9% |
+| regional | 230 | 2.5% |
+| contract | 184 | 2.0% |
+| large | 113 | 1.2% |
+| proprietor | 68 | 0.7% |
 | taproom | 45 | 0.5% |
 | bar | 37 | 0.4% |
-| nano | 15 | 0.2% |
+| nano | 22 | 0.2% |
+| cidery | 7 | 0.1% |
 | beergarden | 3 | 0.0% |
 | location | 1 | 0.0% |
-| cidery | 1 | 0.0% |
 
 ### 🌆 Top 10 Cities by Brewery Count
 | City | Count |
@@ -375,8 +379,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🌍 By Country
 | Country | Count | Percentage |
 |---------|------------|------------|
-| United States | 8,126 | 89.5% |
-| Australia | 514 | 5.7% |
+| United States | 8,175 | 88.4% |
+| Australia | 514 | 5.6% |
+| Canada | 119 | 1.3% |
 | South Africa | 104 | 1.1% |
 | Ireland | 70 | 0.8% |
 | England | 62 | 0.7% |
@@ -405,8 +410,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | country | 100.0% |
 | address_1 | 92.0% |
 | phone | 90.0% |
-| website_url | 86.0% |
-| longitude | 74.0% |
-| latitude | 74.0% |
+| website_url | 87.0% |
+| longitude | 75.0% |
+| latitude | 75.0% |
 | address_2 | 3.0% |
 | address_3 | 0.0% |
