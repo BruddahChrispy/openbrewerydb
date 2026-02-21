@@ -320,11 +320,11 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## 📊 Statistics
 
-> Last updated: 2026-02-01
+> Last updated: 2026-02-21
 
 ### Overview
-- Total Breweries: 9,083
-- Data Completeness: 78.0%
+- Total Breweries: 9,132
+- Data Completeness: 79.0%
 
 ### 🏛 Top 10 States by Brewery Count
 | State | Count |
@@ -343,17 +343,17 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
 |------|--------|------------|
-| micro | 4,830 | 53.2% |
-| brewpub | 2,572 | 28.3% |
-| planning | 662 | 7.3% |
-| closed | 319 | 3.5% |
-| regional | 228 | 2.5% |
-| contract | 187 | 2.1% |
-| large | 114 | 1.3% |
-| proprietor | 69 | 0.8% |
+| micro | 4,857 | 53.2% |
+| brewpub | 2,576 | 28.2% |
+| planning | 649 | 7.1% |
+| closed | 349 | 3.8% |
+| regional | 227 | 2.5% |
+| contract | 184 | 2.0% |
+| large | 113 | 1.2% |
+| proprietor | 68 | 0.7% |
 | taproom | 45 | 0.5% |
 | bar | 37 | 0.4% |
-| nano | 15 | 0.2% |
+| nano | 22 | 0.2% |
 | beergarden | 3 | 0.0% |
 | location | 1 | 0.0% |
 | cidery | 1 | 0.0% |
@@ -375,8 +375,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🌍 By Country
 | Country | Count | Percentage |
 |---------|------------|------------|
-| United States | 8,126 | 89.5% |
-| Australia | 514 | 5.7% |
+| United States | 8,175 | 89.5% |
+| Australia | 514 | 5.6% |
 | South Africa | 104 | 1.1% |
 | Ireland | 70 | 0.8% |
 | England | 62 | 0.7% |
@@ -405,8 +405,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | country | 100.0% |
 | address_1 | 92.0% |
 | phone | 90.0% |
-| website_url | 86.0% |
-| longitude | 74.0% |
-| latitude | 74.0% |
+| website_url | 87.0% |
+| longitude | 75.0% |
+| latitude | 75.0% |
 | address_2 | 3.0% |
 | address_3 | 0.0% |
