@@ -323,7 +323,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 > Last updated: 2026-02-21
 
 ### Overview
-- Total Breweries: 9,132
+- Total Breweries: 9,251
 - Data Completeness: 79.0%
 
 ### 🏛 Top 10 States by Brewery Count
@@ -343,20 +343,20 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🍺 Brewery Types Distribution
 | Type | Count | Percentage |
 |------|--------|------------|
-| micro | 4,857 | 53.2% |
-| brewpub | 2,576 | 28.2% |
-| planning | 649 | 7.1% |
-| closed | 349 | 3.8% |
-| regional | 227 | 2.5% |
+| micro | 4,911 | 53.1% |
+| brewpub | 2,620 | 28.3% |
+| planning | 649 | 7.0% |
+| closed | 361 | 3.9% |
+| regional | 230 | 2.5% |
 | contract | 184 | 2.0% |
 | large | 113 | 1.2% |
 | proprietor | 68 | 0.7% |
 | taproom | 45 | 0.5% |
 | bar | 37 | 0.4% |
 | nano | 22 | 0.2% |
+| cidery | 7 | 0.1% |
 | beergarden | 3 | 0.0% |
 | location | 1 | 0.0% |
-| cidery | 1 | 0.0% |
 
 ### 🌆 Top 10 Cities by Brewery Count
 | City | Count |
@@ -375,8 +375,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ### 🌍 By Country
 | Country | Count | Percentage |
 |---------|------------|------------|
-| United States | 8,175 | 89.5% |
+| United States | 8,175 | 88.4% |
 | Australia | 514 | 5.6% |
+| Canada | 119 | 1.3% |
 | South Africa | 104 | 1.1% |
 | Ireland | 70 | 0.8% |
 | England | 62 | 0.7% |
