@@ -477,6 +477,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/163754356?v=4",
       "profile": "https://github.com/jctopping",
       "contributions": ["data"]
+    },
+    {
+      "login": "fabiovitalba",
+      "name": "Fabio Vitalba",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3830362?v=4",
+      "profile": "https://fabiovitalba.github.io/",
+      "contributions": ["data"]
     }
   ],
   "contributorsPerLine": 7
