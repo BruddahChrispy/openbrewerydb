@@ -1,7 +1,7 @@
 # 🍻 Open Brewery DB Dataset
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-67-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-68-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Open Brewery DB Logo](obdb-logo-md.jpg)
@@ -309,6 +309,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ndawson15"><img src="https://avatars.githubusercontent.com/u/6465674?v=4?s=100" width="100px;" alt="Noah Dawson"/><br /><sub><b>Noah Dawson</b></sub></a><br /><a href="#data-Ndawson15" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jctopping"><img src="https://avatars.githubusercontent.com/u/163754356?v=4?s=100" width="100px;" alt="jctopping"/><br /><sub><b>jctopping</b></sub></a><br /><a href="#data-jctopping" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://fabiovitalba.github.io/"><img src="https://avatars.githubusercontent.com/u/3830362?v=4?s=100" width="100px;" alt="Fabio Vitalba"/><br /><sub><b>Fabio Vitalba</b></sub></a><br /><a href="#data-fabiovitalba" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dustinb"><img src="https://avatars.githubusercontent.com/u/1167912?v=4?s=100" width="100px;" alt="Dustin Butler"/><br /><sub><b>Dustin Butler</b></sub></a><br /><a href="#data-dustinb" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
